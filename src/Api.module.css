@@ -1,0 +1,17 @@
+.main{
+    width: 100%;
+    height: auto;
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+}
+h1, h2{
+    font-size: 3rem;
+    color: #fff;
+    text-align: center;
+}
+p{
+    font-size: 1.1rem;
+    color: rgb(204, 204, 204);
+    text-align: center;
+}
